@@ -1,16 +1,3 @@
-================================================================
-
-Thanks For Using Windows RDP On Azure SandBox Script:
-
-Main Repository: https://github.com/kmille36/Windows-11-VPS
-
-Katacoda Site: https://katacoda.com/thuonghaiplayground2711
-
-Author Facebook: https://facebook.com/thuong.hai.581
-
-Join our Discord: https://discord.io/RDPEmpire2711
-
-================================================================
 
  Limitations:
  
@@ -27,19 +14,3 @@ Join our Discord: https://discord.io/RDPEmpire2711
 - DS2v2 (2vCPU 7GB RAM 64GB Premium SSD). Windows 11 Enterprise
 
 =================================================================
-
- Notes:
-
-- THIS IS ONLY FOR EDUCATIONAL PURPOSES
-
-- DON'T USE FOR MINING OR ILLEGAL USE
-
-================================================================
-
- Changelogs:
-
-- 3/2/2022: Improve internet stability when downloading large files.
-
-- 7/2/2022: Added Chocolatey and Chocolatey GUI (software management).
-
-================================================================
