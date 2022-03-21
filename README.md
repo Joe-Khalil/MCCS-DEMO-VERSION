@@ -1,11 +1,5 @@
 ## Windows 11 RDP
 
-**Here this tutorial using Azure Cloud Shell to create Virtual Machine on Microsoft Learn Sandbox.** <br><br>
-***😎 Its Four Hours RDP Completely Free.***
-
-### For Windows Server 2022 (with VS Code): 
-https://katacoda.com/thuonghaiplayground2711/scenarios/uilayout-iframe-3
-
 
 <br>
 
@@ -39,13 +33,6 @@ https://katacoda.com/thuonghaiplayground2711/scenarios/uilayout-iframe-3
 - *open remote desktop client on windows type the ip and use the credentials provided*
 
 
-### WARN
-```
-THIS IS ONLY FOR EDUCATIONAL PURPOSES
-
-DON'T USE FOR MINING OR ILLEGAL USE
-```
----
 
 ### OPTIONAL:
 
@@ -53,6 +40,4 @@ DON'T USE FOR MINING OR ILLEGAL USE
 
 1H: https://docs.microsoft.com/vi-vn/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/3-create-a-vm?activate-azure-sandbox=true
 
-Katacoda site with more azure location (HK, AU, JP, KR, US, EU): https://katacoda.com/thuonghaiplayground2711/scenarios/test-server-for-dev-only
 
-#### Main Repository : https://github.com/kmille36/Windows-11-VPS
